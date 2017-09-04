@@ -31,4 +31,4 @@ messagetext = raw_input()
 
 url = "https://api.46elks.com/a1/SMS"
 r = requests.post(url, data={'to': recipient,'from': sender,'message': messagetext}, auth=(elkuser, elkpass))
-print A.Mn()
+print r.json()
