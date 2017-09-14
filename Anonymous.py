@@ -1,7 +1,7 @@
 import requests
 import requests
 
-elkuser = "u153763a5eee69fe1daaaffd70cd18d3c"
+elkuser = ""
 elkpass = "C46604A38BB88F846E71338FD6E81CC2"
 
 wrong_art = """
